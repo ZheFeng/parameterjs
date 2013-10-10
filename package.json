@@ -1,0 +1,32 @@
+{
+  "name": "parameterjs",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "description": "Sinatra inspired web development framework",
+  "author": {
+    "name": "Zhe Feng",
+    "email": "zhe@jumiduo.com"
+  },
+  "contributors": [
+  ],
+  "keywords": [
+    "parameter",
+    "argument",
+    "dependency injection",
+    "injector",
+    "angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZheFeng/parameterjs.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/ZheFeng/parameterjs/issues"
+  }
+}
